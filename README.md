@@ -1,2 +1,2 @@
 # golang-gcloud-docker
-Docker image for building golang project on gcloud
+Docker image for building golang project with gcloud sdk
